@@ -4,4 +4,4 @@
 
 ### Heading 3
 
-In order to run this program, you have to open some_file.txt 	
+In order to run this program, you have to open some_file.txt and another_file.txt	
